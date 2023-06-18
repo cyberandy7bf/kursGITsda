@@ -1,1 +1,4 @@
 Alicja ma kota.
+
+
+Dodanie nowe, super funkcjonalności.
